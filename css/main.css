@@ -71,18 +71,19 @@ a:hover {
 }
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
+
 header nav .logo img{
   position: fixed;
   float: left;
 }
 nav{
-  margin:5% 5% 0% 0% ;
+  margin:5% 0% 5% 10% ;
 }
 
-.logo{
-  float: left;
-  width:10%%;
-  height:15%;
+#logo{
+  float: right;
+  width:70px;
+  height:70px;
 
  
 }
