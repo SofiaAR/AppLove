@@ -71,12 +71,20 @@ a:hover {
 }
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
-header div nav{
+header nav .logo img{
   position: fixed;
-}
-.logo img{
   float: left;
-  size: 10px;
+}
+nav{
+  margin:5% 5% 0% 0% ;
+}
+
+.logo{
+  float: left;
+  width:10%%;
+  height:15%;
+
+ 
 }
 #services{
 background-color: #F07B72;
